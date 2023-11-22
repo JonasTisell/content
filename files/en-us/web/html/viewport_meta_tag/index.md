@@ -24,7 +24,7 @@ However, this mechanism is not so good for pages that are optimized for narrow s
 A typical mobile-optimized site contains something like the following:
 
 ```html
-<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
 ```
 
 Not all devices are the same width; you should make sure that your pages work well in a large variation of screen sizes and orientations.
